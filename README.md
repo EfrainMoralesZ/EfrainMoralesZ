@@ -1,7 +1,7 @@
 <!-- Animated header and visual layout -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.png" alt="Efrain Morales Banner" width="800" height="800" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.png" alt="Efrain Morales Banner" width="900" height="500" style="border-radius: 15px;"/>
 </p>
 
 
