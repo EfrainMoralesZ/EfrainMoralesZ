@@ -17,8 +17,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph.svg">
 </picture>
 
-![Pacman](https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph.svg)
-
+![Pacman](https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/output/pacman-contribution-graph.svg)
 <br>
 
 <picture>
