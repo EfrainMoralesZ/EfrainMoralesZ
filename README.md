@@ -18,7 +18,7 @@
   
   </div>
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
+  <div style="flex: 1; text-align: left; min-width: 250px;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF desarrollador" />
   </div>
 
