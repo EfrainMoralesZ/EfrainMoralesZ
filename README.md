@@ -1,14 +1,11 @@
 <!-- Animated header and visual layout -->
 
-<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
-
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer GIF" />
 
 <br>
 
