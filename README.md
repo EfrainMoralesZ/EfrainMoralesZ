@@ -1,32 +1,31 @@
-<!-- Encabezado animado y distribución visual -->
+<!-- Animated header and visual layout -->
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;">
+<table>
+  <tr>
+    <!-- Left column: Technologies and Operating Systems -->
+    <td style="vertical-align: top; min-width: 320px;">
 
-  <!-- Columna izquierda -->
-  <div style="flex: 1; min-width: 300px; text-align: left;">
+      <h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
+      </h1>
 
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&width=650&lines=%F0%9F%91%8B+Hola%2C+soy+Efrain+Morales;Desarrollador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
-  </h1>
+      ### 🖥️ Technologies  
+      <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode,scrum" />
 
-  ### 🖥️ Tecnologías  
-  <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode" />
+      ### 👨🏻‍💻 Operating Systems  
+      <img src="https://skillicons.dev/icons?i=windows,mint,ubuntu,debian" />
 
-  ### 👨🏻‍💻 Sistemas Operativos  
-  <img src="https://skillicons.dev/icons?i=windows,mint,ubuntu,debian" />
-
-  </div>
-
-  <!-- Columna derecha con GIF -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF desarrollador" />
-  </div>
-
-</div>
+    </td>
+    <!-- Right column: GIF -->
+    <td style="vertical-align: top; text-align: center; min-width: 250px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/1010nishant/" target="_blank">
@@ -40,4 +39,4 @@
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
+<p align="center">Thanks for visiting my profile! 🚀</p>
