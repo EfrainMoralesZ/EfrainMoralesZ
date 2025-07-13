@@ -41,8 +41,9 @@
 
 <!-- Gráfico de contribuciones estilo Pacman -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg" alt="Snake animation" width="600">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph.svg" width="600">
 </p>
+
 
 <br>
 
