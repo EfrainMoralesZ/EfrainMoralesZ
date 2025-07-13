@@ -1,14 +1,15 @@
 <!-- Encabezado animado y diseño visual -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.jpg" alt="Efrain Morales Banner" width="1000" height="200"/>
+  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.jpg" alt="Efrain Morales Banner" width="1000" height="300"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/efrainm">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales+desde+México;Desarrollador+Fullstack;Apasionado+por+la+tecnología+%F0%9F%9A%80&font=Pacifico&center=true&width=750&height=100&color=FF0000&vCenter=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales+desde+México;Desarrollador+Fullstack;Apasionado+por+la+tecnología+%F0%9F%9A%80&font=Fira+Code&center=true&width=750&height=100&color=FF0000&vCenter=true&size=35">
   </a>
 </p>
+
 
 <br>
 
@@ -17,15 +18,16 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50">
 <h2 align="left">Sobre mí</h2>
 
-😎 Soy un desarrollador apasionado por construir aplicaciones web limpias con funcionalidad intuitiva. Disfruto transformar ideas en realidad mediante soluciones creativas. Siempre estoy curioso por aprender nuevas habilidades, herramientas y conceptos.  
-He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, lo que incluye reuniones diarias, control de versiones y gestión de proyectos.
+<p>😎 Soy un desarrollador apasionado por construir aplicaciones web limpias con funcionalidad intuitiva. Disfruto transformar ideas en realidad mediante soluciones creativas. Siempre estoy curioso por aprender nuevas habilidades, herramientas y conceptos.</p> 
 
+<p>He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, control de versiones y gestión de proyectos.</p>
 
+<p>
 - 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD  
 - 💼 Soy Ingeniero en Desarrollo y Gestion de Software.  
 - 📫 Contáctame por correo: [zamarronmoralese@gmail.com](mailto:zamarronmoralese@gmail.com).  
 - 📝 Mira mi [Currículum Vitae](https://github.com/EfrainMoralesZ/EfrainMoralesZ/raw/main/Assets/CV_Efrain_Morales.pdf)
-
+</p>
 
 
 
