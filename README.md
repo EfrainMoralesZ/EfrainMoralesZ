@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/efrainm">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales;Desarrollador+Fullstack;Apasionado+por+la+tecnología+%F0%9F%9A%80&font=Press+Start+2P&width=750&height=100&color=FF0000&vCenter=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales;Desarrollador+Fullstack;Apasionado+por+la+tecnología+%F0%9F%9A%80&font=Press+Start+2P&width=750&height=100&color=FF0000&vCenter=true&size=25">
   </a>
 </p>
 
 
-<br>
+<br><br><br>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
 
