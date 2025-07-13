@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/efrainm">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales;Desarrollador+Fullstack;+%F0%9F%9A%80&+font=Press+Start+2P&width=750&height=100&color=FF0000&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+¡Hola!+Soy+Efrain+Morales;Desarrollador+Fullstack;+%F0%9F%9A%80&+font=Press+Start+2P&width=750&height=100&color=FF0000&vCenter=true&size=28">
   </a>
 </p>
 
