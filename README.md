@@ -8,8 +8,8 @@
 <body>
   <header>
     <h1 align="center">Hola 👋 Soy Efrain Morales</h1>
-    <p align="center">Ingeniero en Desarrollo y Gestion de Software</p>
-    <p aling="center">Desarrollador Fullstack | Apasionado por la tecnología</p>
+    <p>Ingeniero en Desarrollo y Gestion de Software</p>
+    <p> Desarrollador Fullstack | Apasionado por la tecnología</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
