@@ -1,6 +1,18 @@
 <!-- Animated header and visual layout -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/efrainm">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80&font=Pacifico&center=true&width=750&height=100&color=FF0000&vCenter=true&size=35">
+  </a>
+</p>
+
+<br>
+
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+<br>
+<br><br>
 
 <br>
 
