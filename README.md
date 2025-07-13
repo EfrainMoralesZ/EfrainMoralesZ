@@ -13,7 +13,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias👨🏻‍💻</h2></summary>
+    <h1>Sistemas Operativos 👨🏻‍💻</h1>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -25,7 +25,8 @@
 
 <div align="Center">
 <h1>Sistemas Operativos</h1>
-<img src="https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,debian"/>
+
+<img src="https://skillicons.dev/icons?i=windows,mint,ubuntu,debian"/>
 </div>
 
 
