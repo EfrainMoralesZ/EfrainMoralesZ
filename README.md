@@ -1,6 +1,11 @@
 <!-- Animated header and visual layout -->
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/efrainm/efrainm/main/assets/avatar-banner.png" alt="Efrain Morales Banner" width="800"/>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/efrainm">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80&font=Pacifico&center=true&width=750&height=100&color=FF0000&vCenter=true&size=35">
   </a>
@@ -11,14 +16,7 @@
 😎 I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/output/pacman-contribution-graph.svg">
-</picture>
 
-![Pacman](https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/output/pacman-contribution-graph.svg)
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
