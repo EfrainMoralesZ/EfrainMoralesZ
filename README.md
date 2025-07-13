@@ -6,30 +6,18 @@
 <br><br>
 
 <!-- Choose your favorite coding GIF below by replacing the src URL -->
-
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" alt="Coding GIF 1" />
-<br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF 2" />
-<br>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding GIF 3" />
-<br>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding GIF 4" />
-<br>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF 5" />
 
 <br>
 
-<div align="center">
 
-  ### 🖥️ Technologies  
-  <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode,scrum" />
+### 🖥️ Technologies  
+<img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode,scrum" />
 
-  <br>
+<br>
 
-  ### 👨🏻‍💻 Operating Systems  
-  <img src="https://skillicons.dev/icons?i=windows,mint,ubuntu,debian" />
-
-</div>
+### 👨🏻‍💻 Operating Systems  
+<img src="https://skillicons.dev/icons?i=windows,mint,ubuntu,debian" />
 
 ---
 
