@@ -11,23 +11,25 @@
 </p>
 
 
-<br><br><br>
+<br>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
+
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50">
 <h2 align="left">Sobre mí</h2>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
 
 <p>😎 Soy un desarrollador apasionado por construir aplicaciones web limpias con funcionalidad intuitiva. Disfruto transformar ideas en realidad mediante soluciones creativas. Siempre estoy curioso por aprender nuevas habilidades, herramientas y conceptos.</p> 
 
 <p>He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, control de versiones y gestión de proyectos.</p>
 
-<p>
+
 - 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD  
 - 💼 Soy Ingeniero en Desarrollo y Gestion de Software.  
 - 📫 Contáctame por correo: [zamarronmoralese@gmail.com](mailto:zamarronmoralese@gmail.com).  
 - 📝 Mira mi [Currículum Vitae](https://github.com/EfrainMoralesZ/EfrainMoralesZ/raw/main/Assets/CV_Efrain_Morales.pdf)
-</p>
+
 
 
 
