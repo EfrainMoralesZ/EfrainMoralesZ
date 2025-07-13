@@ -1,7 +1,7 @@
 <!-- Encabezado animado y diseño visual -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner2.png" alt="Efrain Morales Banner" width="850" height="400"/>
+  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner2.png" alt="Efrain Morales Banner" width="850" height="300"/>
 </p>
 
 <p align="center">
