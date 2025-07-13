@@ -1,11 +1,21 @@
 <!-- Animated header and visual layout -->
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer GIF" />
+<!-- Choose your favorite coding GIF below by replacing the src URL -->
+
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" alt="Coding GIF 1" />
+<br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF 2" />
+<br>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding GIF 3" />
+<br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding GIF 4" />
+<br>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF 5" />
 
 <br>
 
