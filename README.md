@@ -1,12 +1,12 @@
 <!-- Animated header and visual layout -->
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Efrain+Morales+from+Mexico;Fullstack+Developer;Passionate+about+technology+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br><br>
 
 <!-- Choose your favorite coding GIF below by replacing the src URL
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF 5" /> -->
