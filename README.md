@@ -7,8 +7,9 @@
 </head>
 <body>
   <header>
-    <h1 align="center">Hola 👋, Soy Efrain Morales</h1>
-    <p>Desarrollador Fullstack | Apasionado por la tecnología</p>
+    <h1 align="center">Hola 👋 Soy Efrain Morales</h1>
+    <h2 align="center">Ingeniero en Desarrollo y Gestion de Software</h2>
+    <h2 aling="center">Desarrollador Fullstack | Apasionado por la tecnología</h2>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
