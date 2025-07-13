@@ -1,7 +1,7 @@
 <!-- Encabezado animado y diseño visual -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.jpg" alt="Efrain Morales Banner" width="1000" height="300"/>
+  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.png" alt="Efrain Morales Banner" width="1000" height="300"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 <br>
 
 ### 🖥️ Tecnologías  
-<img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode,scrum" />
+<img src="https://skillicons.dev/icons?i=git,css,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode,scrum" />
 
 <br>
 
