@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>Efraín Morales</h1>
+    <h1 align="center">Hola 👋, Soy Efrain Morales</h1>
     <p>Desarrollador Fullstack | Apasionado por la tecnología</p>
 
 <!--h1 without bottom border-->
