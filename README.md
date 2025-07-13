@@ -19,9 +19,14 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,linux,md,nodejs,py,react,ts,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,md,nodejs,py,react,ts,vscode," />
   </a>
 </p>
+
+<div align="Center">
+<h1>Sistemas Operativos</h1>
+<img src="https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,debian"/>
+</div>
 
 
 <!-- Connect with me -->
@@ -32,17 +37,12 @@
   </ul>
 </div>
 
-<div align="Center">
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
-<p>Contacts
-<a href="mailto:lorenceisidoro@gmail.com"> 
-<img src="https://skillicons.dev/icons?i=gmail"/> </a>
-<a href="https://www.linkedin.com/in/1010nishant/"> 
-<img src="https://skillicons.dev/icons?i=instagram"/> </a> 
-<a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> 
-<img src="https://skillicons.dev/icons?i=discord"/> </a> |
-</div>
+  
 </p>
-
 </body>
 </html>
