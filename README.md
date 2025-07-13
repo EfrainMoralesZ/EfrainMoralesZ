@@ -42,8 +42,9 @@
 <!-- Gráfico de contribuciones estilo Pacman -->
 
 <p align="center">
-  <img alt="Gráfico de contribuciones estilo Pacman" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/maurodesouza/maurodesouza@output/pacman-contribution-graph.svg" alt="Gráfico de contribuciones estilo Pacman" width="600">
 </p>
+
 
 
 <br>
