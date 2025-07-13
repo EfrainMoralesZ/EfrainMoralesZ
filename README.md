@@ -40,12 +40,9 @@
 <br>
 
 <!-- Gráfico de contribuciones estilo Pacman -->
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/maurodesouza/maurodesouza@output/pacman-contribution-graph.svg" alt="Gráfico de contribuciones estilo Pacman" width="600">
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg" alt="Snake animation" width="600">
 </p>
-
-
 
 <br>
 
