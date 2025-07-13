@@ -11,8 +11,7 @@
 😎 I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 <br><br>
 
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrainMoralesZ&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+
 
 <br>
 
