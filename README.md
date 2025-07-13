@@ -76,4 +76,6 @@
 
 <p align="center">¡Gracias por visitar mi perfil! 🚀</p>
 
-### Que la fuerza te acompañe ⭐🔫🧑⚔️- Luke Skywalker
+<div aling="center">
+  <h2>Que la fuerza te acompañe ⭐🔫🧑⚔️- Luke Skywalker</h2>
+</div>
