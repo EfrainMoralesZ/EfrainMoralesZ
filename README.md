@@ -1,6 +1,14 @@
-# 👋 Hola, soy Efrain Morales
+<!-- Encabezado animado y gif -->
 
-**Desarrollador Fullstack | Apasionado por la tecnología**
+<div align="center">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Efrain+Morales;Desarrollador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="GIF desarrollador" />
+
+</div>
 
 ---
 
@@ -34,4 +42,4 @@
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
