@@ -20,12 +20,12 @@
 😎 Soy un desarrollador apasionado por construir aplicaciones web limpias con funcionalidad intuitiva. Disfruto transformar ideas en realidad mediante soluciones creativas. Siempre estoy curioso por aprender nuevas habilidades, herramientas y conceptos.  
 He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, lo que incluye reuniones diarias, control de versiones y gestión de proyectos.
 
-- 👨🏽‍💻 Actualmente trabajo como TSA en Nixxe Solutions.  
-- 🌱 Estoy explorando Python con gran interés en Web Scraping y Visualización de Datos.  
+
 - 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD  
-- 💼 Estoy estudiando Ingeniería en Desarrollo de Software.  
+- 💼 Soy Ingeniero en Desarrollo y Gestion de Software.  
 - 📫 Contáctame por correo: [zamarronmoralese@gmail.com](mailto:zamarronmoralese@gmail.com).  
-- 📝 Mira mi [Currículum Vitae]()
+- 📝 Mira mi [Currículum Vitae](./assets/CV_Efrain_Morales.pdf)
+
 
 <br>
 
