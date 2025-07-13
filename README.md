@@ -24,7 +24,9 @@ He trabajado en varios proyectos Full Stack individuales y también en equipos c
 - 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD  
 - 💼 Soy Ingeniero en Desarrollo y Gestion de Software.  
 - 📫 Contáctame por correo: [zamarronmoralese@gmail.com](mailto:zamarronmoralese@gmail.com).  
-https://github.com/EfrainMoralesZ/EfrainMoralesZ/blob/main/Assets/CV_Efrain_Morales.pdf
+- 📝 Mira mi [Currículum Vitae](https://github.com/EfrainMoralesZ/EfrainMoralesZ/raw/main/Assets/CV_Efrain_Morales.pdf)
+
+
 
 
 <br>
