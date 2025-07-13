@@ -25,8 +25,15 @@
 <p>He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, control de versiones y gestión de proyectos.</p>
 
 
-- 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD  
-- 💼 Soy Ingeniero en Desarrollo y Gestion de Software.  
+- 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD
+- 🏫 Egresado de la Universidad Tecnologica Fidel Velazquez  
+- 💼 Ingeniero en Desarrollo y Gestion de Software.
+- 💼 Tecnico Superior, Universitario en Tecnologias de la Informacion Área Desarrollo de Software.  
+- 💻 Cuento con certificaciones:
+  - control de veriones.
+  - Experiencia de usuario.
+  - Front-end.
+  - Analisis de Proyectos BI.
 - 📫 Contáctame por correo: [zamarronmoralese@gmail.com](mailto:zamarronmoralese@gmail.com).  
 - 📝 Mira mi [Currículum Vitae](https://github.com/EfrainMoralesZ/EfrainMoralesZ/raw/main/Assets/CV_Efrain_Morales.pdf)
 
