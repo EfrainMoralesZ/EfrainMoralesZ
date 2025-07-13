@@ -26,7 +26,7 @@
 <p>He trabajado en varios proyectos Full Stack individuales y también en equipos creativos, control de versiones y gestión de proyectos.</p>
 
 
-- 🤔 Me interesan la automatización web, el procesamiento de video y crear cosas útiles y geniales xD
+- 🤔 Me interesan la automatización web, el diseño ademas de generar la mejor experiencia de usuario y crear cosas útiles y geniales xD
 - 🏫 Egresado de la Universidad Tecnologica Fidel Velazquez  
 - 💼 Ingeniero en Desarrollo y Gestion de Software.
 - 💼 Tecnico Superior, Universitario en Tecnologias de la Informacion Área Desarrollo de Software.  
