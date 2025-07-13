@@ -1,7 +1,7 @@
 <!-- Animated header and visual layout -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.jpg" alt="Efrain Morales Banner" width="900" height="500" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/EfrainMoralesZ/EfrainMoralesZ/main/Assets/avatar-banner.jpg" alt="Efrain Morales Banner" width="700" height="300" style="border-radius: 15px;"/>
 </p>
 
 
@@ -18,10 +18,6 @@
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
  
-<br><br>
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
